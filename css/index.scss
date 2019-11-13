@@ -153,7 +153,7 @@ html {
                 width: 0;
                 font-size: .2rem;
                 color: #fff;
-
+                overflow: hidden;
                 span {
                     display: flex;
                     align-items: center;
@@ -526,7 +526,7 @@ html {
                 font-weight: 600;
                 margin-top: 0.1rem;
             }
-
+            width: 60%;
             background-color: #fff;
             padding: .3rem .27rem .41rem .33rem;
             margin: .2rem auto;
@@ -594,6 +594,7 @@ html {
 
         // 珠海普法资讯
         .consult {
+            width: 40%;
             background-color: #3c9ff5;
             display: flex;
             flex-direction: column;

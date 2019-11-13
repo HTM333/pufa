@@ -170,6 +170,7 @@ html {
   width: 0;
   font-size: .2rem;
   color: #fff;
+  overflow: hidden;
 }
 
 .template .physically .box .box_left span {
@@ -590,6 +591,7 @@ html {
 }
 
 .template .physically .videoData {
+  width: 60%;
   background-color: #fff;
   padding: .3rem .27rem .41rem .33rem;
   margin: .2rem auto;
@@ -672,6 +674,7 @@ html {
 }
 
 .template .physically .consult {
+  width: 40%;
   background-color: #3c9ff5;
   display: -webkit-box;
   display: -ms-flexbox;
